@@ -9,4 +9,4 @@ The data for this project was sourced from the open source initiative <a href=ht
 
 The image below was created using the Folium package, and it visualizes the Airbnb listings in Barcelona. Size of marker indicates price and intensity of marker indicates the density of listings in respective neighbourhoods.
 
-<img src='barcelona_visualization.png'>
+<img src='https://github.com/gcardoso2314/Barcelona-airbnb/blob/master/barcelona_visualization.PNG'>
